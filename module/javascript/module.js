@@ -6,6 +6,6 @@ forge.quickblox = {
 };
 
 // Register for our native event
-forge.internal.addEventListener("quickblox.resume", function () {
-	alert("Welcome back!");
-});
+// forge.internal.addEventListener("quickblox.resume", function () {
+// 	alert("Welcome back!");
+// });

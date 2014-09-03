@@ -1,7 +1,7 @@
 {
-	"description": "My module template",
+	"description": "Video chat works",
 	"min_platform_version": "v2.1.9",
 	"namespace": "quickblox",
 	"platform_version": "v2.1.9",
-	"version": "0.3"
+	"version": "0.7"
 }
